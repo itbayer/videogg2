@@ -4,6 +4,14 @@ Mittels dieser Erweiterung für DokuWikis kann ein ogg /ogv Video eingebunden we
 
 Original: <https://www.dokuwiki.org/plugin:videogg>
 
+## Fehler / Bugs
+
+Der interne Video Verweise, funktioniert zur Zeit nur mit
+
+- Eingeschaltetem URL rewriting -> .htaccess
+- DokuWiki Installation mit Basis URL. DokuWiki in einer Unterverzeichnis Installation funktioniert nicht. 
+
+
 ## Änderungen gegenüber dem Original
 
 Mit der Syntax Erweiterung `intern` kann nun der Link, der bei der Media Verwaltung eingefügt wird, verwendet werden.
