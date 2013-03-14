@@ -1,0 +1,7 @@
+base videogg2
+author Stefan Blechschmidt (Ludovic Kiefer)
+email sb@it-bayer.de
+date 2013-03-13
+name videogg2 plugin
+desc Show Ogg Theora videos, using the html5 video tag. Original: http://www.dokuwiki.org/plugin:videogg
+url https://github.com/itbayer/videogg/archive/master.zip
